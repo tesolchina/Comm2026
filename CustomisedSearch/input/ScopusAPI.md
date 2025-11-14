@@ -1,6 +1,0 @@
-[API Key Removed]
-Submit APIKey in header: X-ELS-APIKey 
-
-Submit insttoken in header: X-ELS-Insttoken 
-
-Here is your insttoken: [Insttoken Removed]
