@@ -27,3 +27,4 @@ df.to_csv(output_file, index=False)
 print(f"Successfully added word count column. Output saved to: {output_file}")
 print(f"Total rows processed: {len(df)}")
 
+
